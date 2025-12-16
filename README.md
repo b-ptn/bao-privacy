@@ -6,7 +6,7 @@
 
 Chúng tôi không thu thập, lưu trữ hay chia sẻ dữ liệu cá nhân.
 
-Chúng tôi không yêu cầu người dùng cung cấp thông tin cá nhân như họ tên, thư điện tử, số điện thoại cá nhân hay vị trí.
+Chúng tôi không yêu cầu người dùng cung cấp thông tin cá nhân như họ tên, thư điện tử, số điện thoại hay vị trí.
 
 Chúng tôi tuân thủ quy định bảo vệ dữ liệu cá nhân GDPR với người dùng EU và nghị định 13/2023/NĐ-CP với người dùng Việt Nam.
 
@@ -14,7 +14,7 @@ Chúng tôi tuân thủ quy định bảo vệ dữ liệu cá nhân GDPR với 
 
 Bất cứ câu hỏi nào về Chính sách Riêng tư này, xin vui lòng liên hệ qua thư điện tử.
 
-Thứ 3, ngày 16 tháng 12 năm 2025
+Thứ 4, ngày 17 tháng 12 năm 2025
 
 # Privacy Policy for Báo app
 
@@ -26,11 +26,11 @@ We do not collect, store, or share any personal data.
 
 We do not require users to provide personal data such as name, email, phone number, or location.
 
-We comply with GDPR (EU) and Vietnam Law 13/2023/NĐ-CP regarding data privacy.
+We comply with GDPR (EU) and Vietnam Government Decree 13/2023/NĐ-CP regarding data privacy.
 
 This app is not targeted at children under 13.
 
 For any questions about this Privacy Policy, please contact us using the contact email.
 
-Dated Monday, Dec. 15, 2025
+Dated Wednesday, Dec. 17, 2025
 
