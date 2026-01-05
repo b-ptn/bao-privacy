@@ -1,6 +1,6 @@
-# Chính sách riêng tư cho ứng dụng Báo
+# Chính sách riêng tư cho ứng dụng Quanh Ta
 
-## Nhà phát triển: BÁO-ptn
+## Nhà phát triển: WaterOS
 
 ## Thư điện tử: wateroslab@gmail.com
 
@@ -14,11 +14,11 @@ Chúng tôi tuân thủ quy định bảo vệ dữ liệu cá nhân GDPR với 
 
 Bất cứ câu hỏi nào về Chính sách Riêng tư này, xin vui lòng liên hệ qua thư điện tử.
 
-Thứ 4, ngày 17 tháng 12 năm 2025
+Thứ 2, ngày 5 tháng 1 năm 2026
 
-# Privacy Policy for Báo app
+# Privacy Policy for Quanh Ta app
 
-## Developer: BÁO-ptn
+## Developer: WaterOS
 
 ## Email: wateroslab@gmail.com
 
@@ -32,5 +32,5 @@ This app is not targeted at children under 13.
 
 For any questions about this Privacy Policy, please contact us using the contact email.
 
-Dated Wednesday, Dec. 17, 2025
+Dated Monday, January 5, 2026
 
