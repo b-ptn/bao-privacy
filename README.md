@@ -1,4 +1,4 @@
-# Chính sách riêng tư cho ứng dụng Quanh Ta
+# Chính sách riêng tư cho ứng dụng Đông Hồ
 
 ## Nhà phát triển: WaterOS
 
@@ -14,9 +14,9 @@ Chúng tôi tuân thủ quy định bảo vệ dữ liệu cá nhân GDPR với 
 
 Bất cứ câu hỏi nào về Chính sách Riêng tư này, xin vui lòng liên hệ qua thư điện tử.
 
-Thứ 2, ngày 5 tháng 1 năm 2026
+Thứ 5, ngày 8 tháng 1 năm 2026
 
-# Privacy Policy for Quanh Ta app
+# Privacy Policy for Đông Hồ app
 
 ## Developer: WaterOS
 
@@ -32,5 +32,5 @@ This app is not targeted at children under 13.
 
 For any questions about this Privacy Policy, please contact us using the contact email.
 
-Dated Monday, January 5, 2026
+Dated Thursday, January 8, 2026
 
